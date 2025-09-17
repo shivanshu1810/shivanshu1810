@@ -5,7 +5,7 @@ A passionate **Network Administrator & IT Enthusiast** from Barrie, ON
 - 🌱 I’m learning **cloud technologies (Azure, AWS) & advanced networking (CCNA)**  
 - 👯 I’m looking to collaborate on **networking labs, automation scripts, and open-source IT tools**  
 - 💬 Ask me about **Active Directory, Windows/Linux administration, VLANs, and Python scripting**  
-- 📫 How to reach me: [Shivanshu.Sharma@MyGeorgian.ca](mailto:Shivanshu.Sharma@MyGeorgian.ca) | [[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivanshusharma1810)
+- 📫 How to reach me: [Shivanshu.Sharma@MyGeorgian.ca](mailto:Shivanshu.Sharma@MyGeorgian.ca) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivanshusharma1810)
 
 - ⚡ Fun fact: I enjoy breaking complex IT problems into simple solutions (and occasionally breaking my lab setups 😅).  
 
