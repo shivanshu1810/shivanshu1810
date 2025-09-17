@@ -13,5 +13,5 @@ A passionate **Network Administrator & IT Enthusiast** from Barrie, ON
 🛠️ **Languages & Tools:**  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell)  
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)  ![Cisco](https://img.shields.io/badge/-Cisco-333333?style=flat&logo=cisco)  
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)  
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)  
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)  
