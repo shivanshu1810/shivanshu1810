@@ -11,19 +11,12 @@ A passionate **Network Administrator & IT Enthusiast** from Barrie, ON
 ---
 
 🛠️ **Languages & Tools:**  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell)  
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)  
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell)  
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)  
 ![Cisco](https://img.shields.io/badge/-Cisco-333333?style=flat&logo=cisco)  
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)  
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)  
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
-![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)  
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox)  
-![MS Office](https://img.shields.io/badge/-MS%20Office-333333?style=flat&logo=microsoft-office)  
-![SharePoint](https://img.shields.io/badge/-SharePoint-333333?style=flat&logo=microsoft-sharepoint)  
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)  
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)  ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)  
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox)  ![MS Office](https://img.shields.io/badge/-MS%20Office-333333?style=flat&logo=microsoft-office)  
 
 ---
 
@@ -39,10 +32,3 @@ A passionate **Network Administrator & IT Enthusiast** from Barrie, ON
 - ☁️ **Introduction to PowerShell, Cloud Computing & Azure** (2025)  
 - 🐍 **Python Programming** (VMM Education, 2018)  
 - 💻 **C++ Programming** (VMM Education, 2018)  
-
----
-
-📊 **GitHub Stats:**  
-![Shivanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshu1810&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu1810&layout=compact&theme=radical)  
