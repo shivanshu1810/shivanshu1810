@@ -6,7 +6,7 @@
 🔗 LinkedIn: linkedin.com/in/shivanshusharma1810
 🐙 GitHub: github.com/shivanshu1810
 
-I am a **Computer Systems Technician – Networking student at Georgian College** with hands-on experience in **network administration, IT support, system troubleshooting, and cloud technologies**. I enjoy designing reliable IT solutions, automating tasks, and building practical networking projects.
+I'm a Computer Systems Technician – Networking graduate from Georgian College with hands-on experience in IT support, networking, system troubleshooting and cloud technologies. I enjoy solving technical problems, automating tasks, and building practical IT projects.
 
 Currently, I am focused on improving my skills in **Cisco networking, Azure cloud, PowerShell automation, Linux administration, and Python scripting**.
 
