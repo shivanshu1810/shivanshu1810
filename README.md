@@ -2,7 +2,7 @@
 
 ## 💻  IT Support Specialist | Cloud & Automation | Network Administrator Enthusiast
 
-📍 Barrie, Ontario, Canada
+📍 Ontario, Canada
 🔗 LinkedIn: linkedin.com/in/shivanshusharma1810
 🐙 GitHub: github.com/shivanshu1810
 
