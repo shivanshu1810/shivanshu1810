@@ -1,155 +1,174 @@
-# 👋 Hi, I'm Shivanshu Sharma
+# Hi, I'm Shivanshu Sharma 👋
 
-## 💻  IT Support Specialist | Cloud & Automation | Network Administrator Enthusiast
+### IT Support | Systems Administration | Networking | Cloud & Automation
 
-📍 Ontario, Canada
-🔗 LinkedIn: linkedin.com/in/shivanshusharma1810
-🐙 GitHub: github.com/shivanshu1810
+📍 Ontario, Canada  
+💼 Computer Systems Technician – Networking Graduate, Georgian College  
+🔗 [LinkedIn](https://linkedin.com/in/shivanshusharma1810)  
+🐙 [GitHub](https://github.com/shivanshu1810)
 
-I'm a Computer Systems Technician – Networking graduate from Georgian College with hands-on experience in IT support, networking, system troubleshooting and cloud technologies. I enjoy solving technical problems, automating tasks, and building practical IT projects.
+I'm an IT professional with a background in **IT support, networking, hardware and software troubleshooting, and systems administration**. As a Computer Systems Technician – Networking graduate from Georgian College, I have hands-on experience supporting users in a healthcare IT environment and troubleshooting network and connectivity issues.
 
-Currently, I am focused on improving my skills in **Cisco networking, Azure cloud, PowerShell automation, Linux administration, and Python scripting**.
+I'm interested in building reliable IT infrastructure, improving technical support processes, and developing practical skills in networking, cloud computing, Linux, and automation.
 
----
-
-## 🔭 Currently Working On
-
-* Network automation using **Python & PowerShell**
-* Cloud fundamentals with **Microsoft Azure and AWS**
-* Advanced networking concepts aligned with **CCNA**
-* Building IT infrastructure and troubleshooting labs
-
-## 🌱 Currently Learning
-
-* Azure Administration
-* Windows Server Administration
-* Linux System Administration
-* Network Security Fundamentals
-* Data Analysis with SQL & Power BI
+Currently strengthening my skills in **Microsoft Azure, PowerShell, Python, Linux administration, and enterprise networking**, while building hands-on projects and technical labs.
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-### Networking
+**IT Support & Service Management**
+- Windows 10/11 troubleshooting
+- Hardware and software diagnostics
+- Microsoft 365 and end-user support
+- Active Directory user and account management
+- Ticket management and technical documentation
+- ServiceNow and Halo ITSM
 
-* Cisco Routers & Switches
-* VLANs, Trunking, Inter-VLAN Routing
-* TCP/IP, DHCP, DNS, NAT
-* VPN & Firewall Concepts
-* Wireless Networking (802.11, Wi-Fi Design)
+**Networking**
+- TCP/IP, DNS, DHCP, NAT
+- Cisco routing and switching
+- VLANs, trunking, and inter-VLAN routing
+- LAN/WAN, Wi-Fi, and network troubleshooting
+- VPN and firewall fundamentals
+- Cisco Packet Tracer
 
-### Systems Administration
+**Systems Administration**
+- Windows Server fundamentals
+- Active Directory and Group Policy
+- Linux (Ubuntu)
+- Virtualization with VMware and VirtualBox
+- User accounts, permissions, and system configuration
 
-* Windows 10/11
-* Windows Server
-* Active Directory
-* Linux (Ubuntu)
-* User Account Management
-* Hardware & Software Troubleshooting
+**Cloud & Automation**
+- Microsoft Azure fundamentals
+- AWS fundamentals
+- PowerShell scripting
+- Python programming and automation
+- Bash scripting fundamentals
+- SQL fundamentals
 
-### Cloud & Automation
-
-* Microsoft Azure
-* AWS Fundamentals
-* PowerShell
-* Python
-* Bash Scripting
-* SQL
-
-### Tools
-
-* Cisco Packet Tracer
-* UniFi Design Center
-* VirtualBox
-* VMware
-* ServiceNow / Halo ITSM
-* Microsoft 365
-
----
-
-# 🚀 Featured Projects
-
-## 📡 Wireless Network Design – UniFi Design Center
-
-Designed and optimized a wireless network using **Ubiquiti UniFi Design Center**.
-
-**Highlights:**
-
-* Created building floor plans
-* Configured walls, doors, and RF attenuation
-* Planned UniFi U7 Lite Access Point placement
-* Used Wi-Fi heat maps for coverage optimization
-* Generated professional network design reports
-
-Skills: Wireless Networking | RF Analysis | Network Planning
+**Tools & Platforms**
+- Microsoft 365
+- ServiceNow
+- Halo ITSM
+- Git and GitHub
+- UniFi Design Center
+- Wireshark
 
 ---
 
-## 🖥️ Raspberry Pi Network Monitoring System
+## 🚀 Featured Projects
 
-Built a network monitoring solution using **Python and SSH** on Raspberry Pi.
+### 📡 Wireless Network Design — UniFi Design Center
 
-**Highlights:**
+Designed a wireless network layout using Ubiquiti UniFi Design Center to explore access point placement and wireless coverage optimization.
 
-* Automated system monitoring tasks
-* Used Python scripts for network checks
-* Managed remote access using SSH
+- Created building floor plans and configured walls and RF attenuation.
+- Planned wireless access point placement.
+- Used Wi-Fi heat maps to assess coverage.
+- Generated network design reports.
 
-Skills: Python | Linux | Networking Automation
+**Skills:** Wireless Networking · RF Fundamentals · Network Planning
 
----
+### 🖥️ Raspberry Pi Network Monitoring
 
-## 🌐 Routing & Switching Labs
+Built a Raspberry Pi monitoring project using Python and SSH to practise Linux administration and network monitoring.
 
-Completed Cisco networking projects focused on enterprise network configuration.
+- Developed Python scripts for monitoring tasks and network checks.
+- Used SSH for remote access and administration.
+- Practised Linux command-line operations and troubleshooting.
 
-**Highlights:**
+**Skills:** Python · Linux · SSH · Networking
 
-* VLAN configuration
-* Inter-VLAN routing
-* Switching technologies
-* Network troubleshooting
-* Cisco IOS CLI practice
+### 🌐 Cisco Routing & Switching Labs
 
-Skills: Cisco Networking | LAN Design | Troubleshooting
+Practised enterprise networking concepts through Cisco networking labs.
 
----
+- Configured VLANs and trunk links.
+- Practised inter-VLAN routing.
+- Worked with Cisco IOS command-line tools.
+- Troubleshot network connectivity and configuration issues.
 
-## 🐍 Python Programming Projects
+**Skills:** Cisco IOS · VLANs · Routing & Switching · TCP/IP
 
-Developed automation and programming projects using Python.
+### 🐍 Python Programming Projects
 
-Examples:
+Developed beginner-level Python projects to strengthen programming and problem-solving skills.
 
-* Word Puzzle Game
-* File/data handling automation
-* Network-related scripts
+- Word Puzzle Game
+- File and data handling exercises
+- Basic scripting and automation experiments
 
-Skills: Python | Automation | Problem Solving
+**Skills:** Python · Programming Fundamentals · Problem Solving
 
----
+### ☁️ Azure Cloud Infrastructure
 
-# 🎓 Certifications & Training
+Practised configuring cloud infrastructure using Microsoft Azure tools.
 
-📡 **Cisco CCNA: Introduction to Networks & Switching**
-☁️ **Azure Fundamentals Training (AZ-900 Preparation)**
-💻 **PowerShell & Cloud Computing Training**
-🐍 **Python Programming Certification**
-💻 **C/C++ Programming Certification**
+- Explored virtual machines and Azure resources.
+- Worked with virtual networks and storage fundamentals.
+- Practised resource configuration and access management.
 
----
-
-# 📊 GitHub Goals
-
-I use GitHub to document my learning journey, share networking labs, and showcase practical IT projects involving:
-
-✅ Network Administration
-✅ IT Support
-✅ Cloud Technologies
-✅ Automation
-✅ System Administration
+**Skills:** Microsoft Azure · Cloud Fundamentals · Virtual Networking
 
 ---
 
-⭐ Always learning, building, and improving my skills in IT infrastructure and networking.
+## 💼 Professional Experience
+
+**Service Desk Analyst Co-op — Royal Victoria Regional Health Centre (RVH)**
+
+- Provided Tier 1 IT support through phone, email, and in-person channels.
+- Troubleshot Windows, Microsoft 365, hardware, software, and network connectivity issues.
+- Used Halo ITSM to document and manage support tickets.
+- Assisted with Active Directory account tasks, password resets, MFA, and access-related requests.
+- Supported end users in a healthcare IT environment and contributed to technical documentation.
+
+**Cable Service & Installation Technician — Intek Communications (Rogers)**
+
+- Installed and troubleshot internet, television, home phone, and network connectivity services.
+- Worked with Ethernet, coaxial cabling, and fibre-related installations.
+- Diagnosed service issues using technical testing tools.
+- Documented work orders and service activities.
+
+---
+
+## 🎓 Education & Training
+
+- **Computer Systems Technician – Networking** — Georgian College
+- **Bachelor of Business Administration (BBA), Project Management** — Yorkville University
+- Cisco CCNA coursework: Introduction to Networks and Switching, Routing & Wireless Essentials
+- Microsoft Azure and PowerShell training
+- Python and C/C++ programming training
+
+Currently preparing to strengthen my foundational IT certifications and technical skills.
+
+---
+
+## 🌱 Current Learning Goals
+
+- Microsoft Azure administration
+- Windows Server and Active Directory
+- Linux system administration
+- Cisco networking and CCNA concepts
+- PowerShell and Python automation
+- Network security fundamentals
+- SQL and Power BI
+
+---
+
+## 🎯 Career Interests
+
+I'm interested in opportunities in:
+
+- IT Support and Service Desk
+- Desktop and Technical Support
+- Junior Systems Administration
+- Network Support and Network Technician roles
+- IT Infrastructure and Operations
+- Data Centre Operations
+- Junior Cloud Support
+
+I use GitHub to document my projects, share technical labs, and demonstrate my continued growth in IT infrastructure and networking.
+
+**Always learning. Always building. Always troubleshooting.** 🚀
