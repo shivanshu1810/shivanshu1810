@@ -1,174 +1,105 @@
-# Hi, I'm Shivanshu Sharma 👋
+# Hi, I am Shivanshu Sharma
 
-### IT Support | Systems Administration | Networking | Cloud & Automation
+### IT Support | Service Desk | Networking | Systems Administration
 
-📍 Ontario, Canada  
-💼 Computer Systems Technician – Networking Graduate, Georgian College  
-🔗 [LinkedIn](https://linkedin.com/in/shivanshusharma1810)  
-🐙 [GitHub](https://github.com/shivanshu1810)
+Ontario, Canada
 
-I'm an IT professional with a background in **IT support, networking, hardware and software troubleshooting, and systems administration**. As a Computer Systems Technician – Networking graduate from Georgian College, I have hands-on experience supporting users in a healthcare IT environment and troubleshooting network and connectivity issues.
+- Computer Systems Technician - Networking graduate, Georgian College
+- [LinkedIn](https://linkedin.com/in/shivanshusharma1810)
+- [Portfolio](https://shivanshu-portfolio.base44.app/)
 
-I'm interested in building reliable IT infrastructure, improving technical support processes, and developing practical skills in networking, cloud computing, Linux, and automation.
-
-Currently strengthening my skills in **Microsoft Azure, PowerShell, Python, Linux administration, and enterprise networking**, while building hands-on projects and technical labs.
+I am an IT support graduate. I spent 2 years in the Computer Systems Technician - Networking (CSTN) program at Georgian College, learning IT support, networking, Windows and Linux systems, and automation. After graduation, I kept learning through home labs and small projects.
 
 ---
 
-## 🛠️ Technical Skills
+## Skills
 
-**IT Support & Service Management**
-- Windows 10/11 troubleshooting
-- Hardware and software diagnostics
-- Microsoft 365 and end-user support
-- Active Directory user and account management
-- Ticket management and technical documentation
-- ServiceNow and Halo ITSM
-
-**Networking**
-- TCP/IP, DNS, DHCP, NAT
-- Cisco routing and switching
-- VLANs, trunking, and inter-VLAN routing
-- LAN/WAN, Wi-Fi, and network troubleshooting
-- VPN and firewall fundamentals
-- Cisco Packet Tracer
-
-**Systems Administration**
-- Windows Server fundamentals
-- Active Directory and Group Policy
-- Linux (Ubuntu)
-- Virtualization with VMware and VirtualBox
-- User accounts, permissions, and system configuration
-
-**Cloud & Automation**
-- Microsoft Azure fundamentals
-- AWS fundamentals
-- PowerShell scripting
-- Python programming and automation
-- Bash scripting fundamentals
-- SQL fundamentals
-
-**Tools & Platforms**
-- Microsoft 365
-- ServiceNow
-- Halo ITSM
-- Git and GitHub
-- UniFi Design Center
-- Wireshark
+- Windows 10/11 troubleshooting, hardware and software support
+- Microsoft 365, Active Directory, user accounts, password resets, MFA
+- Ticketing: ServiceNow, Halo ITSM
+- Networking: TCP/IP, DNS, DHCP, VLANs, LAN/WAN, Wi-Fi, VPN, firewalls
+- Linux (Ubuntu), VMware, VirtualBox
+- PowerShell scripting, Python scripting, Bash basics, SQL basics
+- Azure fundamentals, AWS fundamentals
 
 ---
 
-## 🚀 Featured Projects
+## Projects from 2 Years of CSTN Education
 
-### 📡 Wireless Network Design — UniFi Design Center
+These are projects and labs from my 2-year CSTN program at Georgian College.
 
-Designed a wireless network layout using Ubiquiti UniFi Design Center to explore access point placement and wireless coverage optimization.
+### Wireless Network Design - UniFi Design Center
 
-- Created building floor plans and configured walls and RF attenuation.
-- Planned wireless access point placement.
-- Used Wi-Fi heat maps to assess coverage.
-- Generated network design reports.
+Planned a wireless network using Ubiquiti UniFi Design Center. Created floor plans, placed access points, and used Wi-Fi heat maps to check coverage.
 
-**Skills:** Wireless Networking · RF Fundamentals · Network Planning
+[Wireless-Networking repo](https://github.com/shivanshu1810/Wireless-Networking)
 
-### 🖥️ Raspberry Pi Network Monitoring
+### Linux Automation (COMP2137)
 
-Built a Raspberry Pi monitoring project using Python and SSH to practise Linux administration and network monitoring.
+Wrote Bash scripts for Linux system administration: system reports, host configuration, user setup, and network checks.
 
-- Developed Python scripts for monitoring tasks and network checks.
-- Used SSH for remote access and administration.
-- Practised Linux command-line operations and troubleshooting.
+[COMP2137_LinuxAutomation repo](https://github.com/shivanshu1810/COMP2137_LinuxAutomation)
 
-**Skills:** Python · Linux · SSH · Networking
+### Cisco Routing and Switching Labs
 
-### 🌐 Cisco Routing & Switching Labs
+Course labs in Cisco networking: VLANs, trunk links, inter-VLAN routing, and troubleshooting with Cisco IOS and Packet Tracer.
 
-Practised enterprise networking concepts through Cisco networking labs.
+### Windows Server and Active Directory Labs
 
-- Configured VLANs and trunk links.
-- Practised inter-VLAN routing.
-- Worked with Cisco IOS command-line tools.
-- Troubleshot network connectivity and configuration issues.
+Course labs in Windows Server, Active Directory, user accounts, permissions, and Group Policy basics.
 
-**Skills:** Cisco IOS · VLANs · Routing & Switching · TCP/IP
+### Python Programming Coursework
 
-### 🐍 Python Programming Projects
-
-Developed beginner-level Python projects to strengthen programming and problem-solving skills.
-
-- Word Puzzle Game
-- File and data handling exercises
-- Basic scripting and automation experiments
-
-**Skills:** Python · Programming Fundamentals · Problem Solving
-
-### ☁️ Azure Cloud Infrastructure
-
-Practised configuring cloud infrastructure using Microsoft Azure tools.
-
-- Explored virtual machines and Azure resources.
-- Worked with virtual networks and storage fundamentals.
-- Practised resource configuration and access management.
-
-**Skills:** Microsoft Azure · Cloud Fundamentals · Virtual Networking
+Basic Python programs from my coursework: file handling, data handling, and small scripting exercises.
 
 ---
 
-## 💼 Professional Experience
+## Home Labs After Graduation
 
-**Service Desk Analyst Co-op — Royal Victoria Regional Health Centre (RVH)**
+After graduation, I built home labs and small projects to practise real IT support and automation tasks.
 
-- Provided Tier 1 IT support through phone, email, and in-person channels.
-- Troubleshot Windows, Microsoft 365, hardware, software, and network connectivity issues.
-- Used Halo ITSM to document and manage support tickets.
-- Assisted with Active Directory account tasks, password resets, MFA, and access-related requests.
-- Supported end users in a healthcare IT environment and contributed to technical documentation.
+### PowerShell IT Support Toolkit
 
-**Cable Service & Installation Technician — Intek Communications (Rogers)**
+A set of PowerShell scripts for everyday IT support work: checking disk space, reading event logs, troubleshooting network problems, viewing system information, and checking running processes.
 
-- Installed and troubleshot internet, television, home phone, and network connectivity services.
-- Worked with Ethernet, coaxial cabling, and fibre-related installations.
-- Diagnosed service issues using technical testing tools.
-- Documented work orders and service activities.
+[POWERSHELL repo](https://github.com/shivanshu1810/POWERSHELL)
 
----
+### Python Utilities
 
-## 🎓 Education & Training
+Small Python tools for IT support and networking: subnet calculator, password generator, TCP port checker, file organizer, and network ping sweep.
 
-- **Computer Systems Technician – Networking** — Georgian College
-- **Bachelor of Business Administration (BBA), Project Management** — Yorkville University
-- Cisco CCNA coursework: Introduction to Networks and Switching, Routing & Wireless Essentials
-- Microsoft Azure and PowerShell training
-- Python and C/C++ programming training
-
-Currently preparing to strengthen my foundational IT certifications and technical skills.
+[PYTHON repo](https://github.com/shivanshu1810/PYTHON)
 
 ---
 
-## 🌱 Current Learning Goals
+## Experience
 
-- Microsoft Azure administration
-- Windows Server and Active Directory
-- Linux system administration
-- Cisco networking and CCNA concepts
-- PowerShell and Python automation
-- Network security fundamentals
-- SQL and Power BI
+**Service Desk Analyst Co-op - Royal Victoria Regional Health Centre (Jan - Apr 2026)**
+- Tier 1 IT support by phone, email, and in person
+- 10-12 tickets per day: Windows, Microsoft 365, hardware, software, network issues
+- Active Directory accounts, password resets, MFA, onboarding
+- Ticket documentation in Halo ITSM
+
+**Cable Service and Installation Technician - Intek Communications (May 2022 - May 2024)**
+- Installed and troubleshot internet, TV, and home phone services
+- Ethernet, coaxial, and fibre-related installs
+- Service calls and work orders in ServiceNow
 
 ---
 
-## 🎯 Career Interests
+## Education
 
-I'm interested in opportunities in:
+- Computer Systems Technician - Networking, Georgian College (Jan 2025 - Aug 2026)
+- BBA, Project Management, Yorkville University (Jan 2019 - Dec 2021)
 
-- IT Support and Service Desk
-- Desktop and Technical Support
+---
+
+## What I Am Looking For
+
+- IT Support / Service Desk / Helpdesk
+- Desktop Support / Technical Support
 - Junior Systems Administration
-- Network Support and Network Technician roles
-- IT Infrastructure and Operations
-- Data Centre Operations
+- Network Support / Data Centre Operations
 - Junior Cloud Support
 
-I use GitHub to document my projects, share technical labs, and demonstrate my continued growth in IT infrastructure and networking.
-
-**Always learning. Always building. Always troubleshooting.** 🚀
+Open to relocating anywhere in Canada.
