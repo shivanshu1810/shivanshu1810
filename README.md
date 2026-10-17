@@ -62,6 +62,8 @@ After graduation, I built home labs and small projects to practise real IT suppo
 
 A set of PowerShell scripts for everyday IT support work: checking disk space, reading event logs, troubleshooting network problems, viewing system information, and checking running processes.
 
+Newest addition (Oct 17, 2026): Get-TopProcesses.ps1 shows the top 10 processes by CPU and memory for slow-computer tickets.
+
 [POWERSHELL repo](https://github.com/shivanshu1810/POWERSHELL)
 
 ### Python Utilities
