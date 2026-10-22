@@ -2,7 +2,7 @@
 
 ### IT Support | Networking | Systems Administration | Cloud Infrastructure
 
-📍 Ontario, Canada · Open to Relocation
+📍 Ontario, Canada
 
 I'm a **Computer Systems Technician – Networking graduate from Georgian College** with healthcare IT Service Desk experience at Royal Victoria Regional Health Centre (RVH), a BBA in Project Management, and 2 years of technical field experience.
 
