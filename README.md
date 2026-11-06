@@ -41,6 +41,8 @@ I enjoy troubleshooting technical issues, supporting users, and building practic
 
 ## 🚀 Featured Projects
 
+*I am still working on these projects and add to them as I go.*
+
 | Project | What it is | Built with |
 |---|---|---|
 | [POWERSHELL](https://github.com/shivanshu1810/POWERSHELL) | PowerShell toolkit for IT support, including a network stack reset script for common connectivity issues | PowerShell |
