@@ -8,9 +8,9 @@ For my co-op I worked as a Tier 1 Service Desk Analyst at Royal Victoria Regiona
 
 ## Certifications
 
-- Microsoft AZ-900, passed October 2026
-- CompTIA A+, studying now. My exams are in November and December 2026
-- Microsoft AB-900, studying now. My exam is in November 2026
+- Microsoft AZ-900, October 2026
+- CompTIA A+, in progress
+- CCNA, in progress
 
 ## My projects
 
