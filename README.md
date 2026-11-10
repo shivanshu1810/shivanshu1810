@@ -6,6 +6,12 @@ I finished my Computer Systems Technician Networking diploma at Georgian College
 
 For my co-op I worked as a Tier 1 Service Desk Analyst at Royal Victoria Regional Health Centre. I helped users with password resets, Microsoft 365 problems, and account access, about 10 to 12 tickets a day. Before that I worked 2 years as a cable and installation technician at Intek Communications.
 
+## Currently (November 2026)
+
+- Preparing for Microsoft AB-900 on November 19, 2026 and CompTIA A+ Core 1 on November 24, 2026
+- Building two new practice projects: a DHCP and network troubleshooting lab on Windows Server, and an Active Directory and Group Policy lab
+- Looking for IT support and service desk roles across Canada
+
 ## Certifications
 
 - Microsoft AZ-900, October 2026
