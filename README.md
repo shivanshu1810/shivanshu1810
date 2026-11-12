@@ -9,6 +9,7 @@ For my co-op I worked as a Tier 1 Service Desk Analyst at Royal Victoria Regiona
 ## Currently (November 2026)
 
 - Preparing for Microsoft AB-900 on November 19, 2026 and CompTIA A+ Core 1 on November 24, 2026
+- This week: hardware and network troubleshooting practice for A+ Core 1, and Copilot and agent administration study for AB-900
 - Building two new practice projects: a DHCP and network troubleshooting lab on Windows Server, and an Active Directory and Group Policy lab
 - Looking for IT support and service desk roles across Canada
 
