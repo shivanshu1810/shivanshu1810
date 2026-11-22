@@ -1,6 +1,18 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=220&section=header&text=Shivanshu%20Sharma&fontSize=64&fontColor=FFFFFF&desc=IT%20Support%20%7C%20Service%20Desk%20Analyst%20%7C%20Junior%20Cloud&descSize=20&descAlignY=62" width="100%" alt="Shivanshu Sharma — IT Support | Service Desk Analyst | Junior Cloud" />
+
 # Hi, I'm Shivanshu "Shiv" Sharma
 
 **IT Support | Service Desk Analyst | Junior Cloud — Ontario, Canada**
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20AZ--900-Completed-B91C1C?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900 — Completed" />
+  <img src="https://img.shields.io/badge/CompTIA%20Network%2B-In%20Progress-991B1B?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Network+ — In Progress" />
+  <img src="https://img.shields.io/badge/Windows-10%2F11-1F2937?style=flat-square&logoColor=F87171" alt="Windows 10/11" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-Support-1F2937?style=flat-square&logo=microsoft&logoColor=F87171" alt="Microsoft 365" />
+  <img src="https://img.shields.io/badge/Active%20Directory-Admin-1F2937?style=flat-square&logoColor=F87171" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/Azure-Cloud%20Basics-B91C1C?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Networking-TCP%2FIP%20%C2%B7%20DNS%20%C2%B7%20DHCP%20%C2%B7%20VLANs-991B1B?style=flat-square&logo=cisco&logoColor=white" alt="Networking" />
+</p>
 
 ## About Me
 
@@ -26,10 +38,30 @@ I am currently looking for IT support, service desk, and junior cloud roles in O
 - **Networking:** TCP/IP, DNS, DHCP, VLANs, Cisco Packet Tracer
 - **Tools:** Splunk, PowerShell basics, UniFi Design Center
 
+<p>
+  <img src="https://img.shields.io/badge/Windows%2010%2F11-Endpoints-B91C1C?style=flat-square" alt="Windows 10/11" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-Support-991B1B?style=flat-square" alt="Microsoft 365" />
+  <img src="https://img.shields.io/badge/Active%20Directory-Group%20Policy-1F2937?style=flat-square" alt="Active Directory and Group Policy" />
+  <img src="https://img.shields.io/badge/Azure-Fundamentals-B91C1C?style=flat-square" alt="Azure" />
+  <img src="https://img.shields.io/badge/Networking-Packet%20Tracer%20Labs-991B1B?style=flat-square" alt="Networking" />
+</p>
+
 ## Certifications
 
 - **Microsoft AZ-900 (Azure Fundamentals)** — Completed, October 2026
 - **CompTIA Network+** — In progress (exam target January 2027)
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20AZ--900%20(Azure%20Fundamentals)-Completed%2C%20October%202026-B91C1C?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900 (Azure Fundamentals) — Completed, October 2026" />
+  <img src="https://img.shields.io/badge/CompTIA%20Network%2B-In%20Progress%20(Target%20January%202027)-991B1B?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Network+ — In progress (exam target January 2027)" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanshu1810&show_icons=true&bg_color=0D1117&title_color=F87171&icon_color=F87171&text_color=E5E7EB&border_color=7F1D1D" height="180" alt="Shivanshu Sharma's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu1810&layout=compact&bg_color=0D1117&title_color=F87171&text_color=E5E7EB&border_color=7F1D1D" height="180" alt="Top languages" />
+</p>
 
 ## Featured Projects
 
@@ -47,3 +79,5 @@ I am currently looking for IT support, service desk, and junior cloud roles in O
 - **Portfolio:** https://sharmashivanshu.com
 
 I am a Canadian Permanent Resident and can work anywhere in Canada. I hold an Ontario G licence and speak English, Hindi, and Punjabi.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer" width="100%" alt="" />
