@@ -56,13 +56,6 @@ I am currently looking for IT support, service desk, and junior cloud roles in O
   <img src="https://img.shields.io/badge/CompTIA%20Network%2B-In%20Progress%20(Target%20January%202027)-991B1B?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Network+ — In progress (exam target January 2027)" />
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanshu1810&show_icons=true&bg_color=0D1117&title_color=F87171&icon_color=F87171&text_color=E5E7EB&border_color=7F1D1D" height="180" alt="Shivanshu Sharma's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu1810&layout=compact&bg_color=0D1117&title_color=F87171&text_color=E5E7EB&border_color=7F1D1D" height="180" alt="Top languages" />
-</p>
-
 ## Featured Projects
 
 - [Windows-System-Administration](https://github.com/shivanshu1810/Windows-System-Administration) — Windows Server labs: Active Directory, Group Policy, and file services
